@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Roteirando</string>
+
+
+    <string name="hint_usuario">Usuário</string>
+    <string name="hint_senha">Senha</string>
+    <string name="esqueci_senha"><u>Esqueci minha senha</u></string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_cadastro">Cadastre-se</string>
+    <string name="btn_entrar_sem_logar">Entrar sem logar</string>
+
+    <string name="btn_add_roteiro">Criar roteiro</string>
+    <string name="btn_add_dica">Adicionar dicas</string>
+    <string name="btn_meus_roteiros">Meus roteiros</string>
+    <string name="hint_buscar_dest">Buscar destino</string>
+
+    <string name="hint_destino">Destino</string>
+    <string name="hint_tipo">Tipo de dica</string>
+    <string name="hint_titulo">Dica</string>
+    <string name="btn_prox">Próximo</string>
+
+    <string name="hint_periodo">Período sugerido</string>
+    <string name="hint_tempo">Tempo estimado</string>
+    <string name="hint_valor">Valor aproximado</string>
+    <string name="hint_avaliacao">Avaliação</string>
+    <string name="hint_obs">Observações</string>
+    <string name="hint_cozinha">Cozinha</string>
+    <string name="check_manha">Manhã</string>
+    <string name="check_tarde">Tarde</string>
+    <string name="check_noite">Noite</string>
+
+    <string-array name="tipos_dicas">
+        <item>Ponto Turístico</item>
+        <item>Bar/Restaurante</item>
+    </string-array>
+    <string name="msg_sem_destino">Escolha um destino</string>
+    <string name="msg_sem_tipo">Escolha um tipo de dica</string>
+    <string name="msg_sem_dica">Digite o nome da dica</string>
+</resources>
